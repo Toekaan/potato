@@ -3,6 +3,6 @@ The app has a seperate landscape layout and keeps the view states between layout
 
 Main Activity screenshots: 
 
-![Main Activity Portrait](/docs/potatoLand.jpg "Main Activity Portrait")
+![Main Activity Portrait](/docs/potatoLand.jpg "Main Activity Portrait" =250x)
 
-![Main Activity Landscape](/docs/potatoPort.jpg "Main Activity Landscape")
+![Main Activity Landscape](/docs/potatoPort.jpg "Main Activity Landscape" =250x)
